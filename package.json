@@ -1,0 +1,15 @@
+{
+  "name": "projeto-sass",
+  "version": "1.0.0",
+  "description": "Exercício do módulo 15 - SASS",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass source/main.scss buiild/main.css --watch"
+  },
+  "keywords": [],
+  "author": "Renato Vegh",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.89.2"
+  }
+}
